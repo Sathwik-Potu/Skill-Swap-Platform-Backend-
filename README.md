@@ -73,7 +73,7 @@ It’s a community-driven platform to connect, share knowledge, and grow togethe
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/SkillSwap.git
+git clone https://github.com/Sathwik-potu/SkillSwap.git
 cd SkillSwap
 ````
 
@@ -103,10 +103,10 @@ Visit 👉 `http://localhost:8080`
 
 ```json
 {
-  "username": "aaravk",
-  "email": "aarav.kapoor@example.com",
+  "username": "sathwik",
+  "email": "sathwik.potu@example.com",
   "password": "Pass@123",
-  "name": "Aarav Kapoor",
+  "name": "sathwik potu",
   "bio": "Full-stack dev teaching Java/Spring Boot",
   "location": "Mumbai",
   "skillsCanTeach": ["Java", "Spring Boot"],
